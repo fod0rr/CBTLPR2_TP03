@@ -6,6 +6,8 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
 
+//Feito por Maria Eduarda Fodor CB3025063, Pedro Xavier Oliveira CB3027376 
+
 public class Form1 extends JFrame implements ActionListener{
     private JTextField campoNome, campoSexo, campoIdade;
     private JLabel labelNumero;
