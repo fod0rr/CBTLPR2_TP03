@@ -5,6 +5,8 @@ public class Pessoa {
     private char sexo;
     private int idade;
 
+//Feito por Maria Eduarda Fodor CB3025063, Pedro Xavier Oliveira CB3027376 
+    
     public Pessoa() { kp++; }
 
     public Pessoa(String nome, char sexo, int idade) {
