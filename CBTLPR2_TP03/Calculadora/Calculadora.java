@@ -6,6 +6,8 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//Feito por Maria Eduarda Fodor CB3025063, Pedro Xavier Oliveira CB3027376 
+
 public class Calculadora extends JFrame implements ActionListener {
 
     private JTextField textField;
